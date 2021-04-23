@@ -8,7 +8,7 @@ Documentazione italiana the Bot Soft Whitelist PRO
 Italian docs regarding Soft Whitelist PRO Bot
 
 # Support
-![alt text](https://discord.gg/VSD7M5t)
+https://discord.gg/VSD7M5t
 
 ### Coming Soon
 English docs
