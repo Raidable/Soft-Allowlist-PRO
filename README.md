@@ -11,6 +11,7 @@
 
 ## Bot Preview
 [![Watch the video(https://imgur.com/cQIKYaY)](https://www.youtube.com/watch?v=cljOrVQFW0w)
+![alt text](https://imgur.com/cQIKYaY)(https://www.youtube.com/watch?v=cljOrVQFW0w)
 
 ## Support
 
