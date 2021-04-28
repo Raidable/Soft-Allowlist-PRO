@@ -9,10 +9,8 @@
 - Italian Docs - *DOCS IT*
 - English Docs - *DOCS ENG*
 
-## Contribute
-
-Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
+## Bot Preview
+[![Watch the video](https://imgur.com/a/3lb6xsa)](https://www.youtube.com/watch?v=cljOrVQFW0w)
 
 ## Support
 
