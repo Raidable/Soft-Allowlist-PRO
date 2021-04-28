@@ -1,19 +1,22 @@
-# Soft Whitelist PRO Docs
+<img src="icon.png" align="right" />
 
-##IT 
-In questa repository è presenta la documentazione per l'utilizzo del Bot Soft Allowlist, disponibile in
-ENG;
-IT;
+# Soft Allowlist DOCS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+> A complete guide and introduction to Soft Allowlist discord Bot
 
-##ENG
-In this repository is stored the Soft Allowlist's docs, available in:
-ENG;
-IT.
+Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
-##Bot Showcase
-https://www.youtube.com/watch?v=cljOrVQFW0w
+## Articles
 
-# Support
-https://discord.gg/VSD7M5t
+- Italian Docs - *DOCS IT*
+- English Docs - *DOCS ENG*
+
+## Contribute
+
+Contributions are always welcome!
+Please read the [contribution guidelines](contributing.md) first.
+
+## Support
+
+- [Support Server](https://discord.gg/VSD7M5t) - Join here to buy or to get support.
 
 
