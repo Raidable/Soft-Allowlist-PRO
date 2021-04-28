@@ -4,13 +4,14 @@
 > A complete guide and introduction to Soft Allowlist discord Bot.
 
 
-## Articles
+## Files
 
 - Italian Docs - *DOCS IT*
 - English Docs - *DOCS ENG*
 
 ## Bot Preview
 https://www.youtube.com/watch?v=cljOrVQFW0w
+
 
 ## Support
 
