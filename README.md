@@ -1,16 +1,16 @@
 # Soft Whitelist PRO Docs
 
-###IT 
+##IT 
 In questa repository è presenta la documentazione per l'utilizzo del Bot Soft Allowlist, disponibile in
 ENG;
 IT;
 
-###ENG
+##ENG
 In this repository is stored the Soft Allowlist's docs, available in:
 ENG;
 IT.
 
-###Bot Showcase
+##Bot Showcase
 https://www.youtube.com/watch?v=cljOrVQFW0w
 
 # Support
