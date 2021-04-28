@@ -1,6 +1,6 @@
 <img src="icon.png" align="right" />
 
-# Soft Allowlist DOCS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Soft Allowlist DOCS 
 > A complete guide and introduction to Soft Allowlist discord Bot
 
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
